@@ -1,0 +1,2 @@
+Wymaganie funkcjonalne jest to wymaganie dotycz¹ce wyniku zachowania systemu, który powinien zostaæ dostarczony przez funkcjê systemu.
+Wymaganie niefunkcjonalne (jakoœciowe) to wymaganie, które dotyczy jakoœci tworzonego oprogramowania, które nie zosta³o okreœlone przez wymagania funkcjonalne.
